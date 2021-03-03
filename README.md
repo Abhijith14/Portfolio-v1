@@ -5,7 +5,7 @@
   Abhijith14/Portfolio
 </h1>
 <p align="center">
-  The First iteration of <a href="#" target="_blank">Abhijith14/Portfolio</a>
+  The First iteration of <a href="https://abhijith14.github.io/Portfolio-v1/" target="_blank">Abhijith14/Portfolio</a>
 </p>
 <!--
 <p align="center">
@@ -27,20 +27,20 @@
 
 ## 🚨 Forking this repo (please read!)
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually _**yes, with attribution**_.
 
 I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
 
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Portfolio](Abhijith14/Portfolio). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Portfolio](https://abhijith14.github.io/Portfolio-v1/). Thanks!
 
 ## 🎨 Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-| Deep Blue      | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Grey     | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
+| Deep Blue      | ![#3e4352](https://via.placeholder.com/10/3e4352?text=+) `#3e4352` |
+| Light Grey     | ![#737373](https://via.placeholder.com/10/737373?text=+) `#737373` |
 | Lightest Grey  | ![#eef1fc](https://via.placeholder.com/10/eef1fc?text=+) `#eef1fc` |
-| Bold Red       | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+| Bold Red       | ![#ff1616](https://via.placeholder.com/10/ff1616?text=+) `#ff1616` |
