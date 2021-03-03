@@ -1,0 +1,546 @@
+body {
+  font-weight: 700;
+}
+
+.navbar-nav {
+  float: right;
+}
+
+@media (max-width: 768px) {
+  .navbar-nav {
+    margin-top: -167px !important;
+    margin-left: -100px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .logoClass {
+    margin-top: 10px !important;
+    /*margin-left: -56px !important;*/
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar-toggler {
+    margin-top: -145px !important;
+  }
+}
+
+@media (min-width: 494px) {
+  .navbar.navbar-light.navbar-expand-md {
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 400px) {
+  .logoClass {
+    width: 200px !important;
+    height: 70px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .SupportBtn {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .SupportBtnLink {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .SupportBtnLink {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 940px) {
+  #helloPic {
+    width: 330px !important;
+  }
+}
+
+@media (max-width: 940px) {
+  #hiDiv {
+    width: 50% !important;
+    height: 50% !important;
+    margin-left: 240px !important;
+    margin-top: -57px !important;
+  }
+}
+
+@media (max-width: 940px) {
+  #mainTxtId {
+    margin-left: 40px !important;
+    width: 50% !important;
+    height: 50% !important;
+    margin-top: 404px !important;
+  }
+}
+
+@media (max-width: 940px) {
+  #mainTxtId2 {
+    margin-left: 40px !important;
+    width: 50%;
+    height: 50%;
+    margin-top: -117px !important;
+  }
+}
+
+@media (max-width: 940px) {
+  #HelloClassId2 {
+    font-size: 22px !important;
+  }
+}
+
+@media (max-width: 940px) {
+  .NameClass1 {
+    margin-left: 7px !important;
+  }
+}
+
+@media (max-width: 940px) {
+  .NameClass2 {
+    margin-left: 7px !important;
+  }
+}
+
+@media (max-width: 940px) {
+  #mainTxtId3 {
+    margin-left: 40px !important;
+    width: 85% !important;
+    height: 50% !important;
+  }
+}
+
+@media (max-width: 410px) {
+  #DownloadBtnId {
+    margin-top: 14px !important;
+    margin-left: 130px !important;
+  }
+}
+
+@media (max-width: 410px) {
+  #SocialBtnId1 {
+    margin-left: 123px !important;
+    margin-top: 30px !important;
+  }
+}
+
+@media (max-width: 410px) {
+  #SocialBtnId2 {
+    margin-top: 30px !important;
+  }
+}
+
+@media (max-width: 410px) {
+  #SocialBtnId3 {
+    margin-top: 30px !important;
+  }
+}
+
+@media (max-width: 410px) {
+  #SocialBtnId4 {
+    margin-top: 30px !important;
+  }
+}
+
+@media (min-width: 410px) and (max-width:940px) {
+  #DownloadBtnId {
+    margin-left: 130px !important;
+    margin-top: -54px !important;
+  }
+}
+
+@media (min-width: 410px) and (max-width:940px) {
+  #SocialBtnId1 {
+    margin-left: -145px !important;
+  }
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  z-index: 5;
+  position: relative;
+}
+
+/* Desktop */
+
+@media (max-width: 1700px) {
+  .logoClass {
+    width: 175px !important;
+    height: 68px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .navbar-nav {
+    margin-left: 113px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .SupportBtn {
+    margin-left: 43px;
+    margin-right: 20px !important;
+    width: 189px;
+  }
+}
+
+@media (max-width: 1920px) {
+  .navbar.navbar-light.navbar-expand-md {
+    height: 129px !important;
+    padding: 0px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .nav-link {
+    font-size: 14px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .hiClass {
+    width: 410px !important;
+    margin-top: 14px !important;
+    margin-right: 82px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .mainTxtDiv {
+    margin-left: 245px !important;
+    margin-top: 100px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .mainTxt1 {
+    font-size: 12px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .mainTxtDiv2 {
+    margin-left: 245px !important;
+    margin-top: -95px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .HelloClass2 {
+    font-size: 35px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .mainTxtDiv3 {
+    margin-left: 245px !important;
+    font-size: 10px !important;
+    width: 492px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .DownloadCVBTN {
+    margin-left: 245px !important;
+    padding: 12px 27px !important;
+    font-size: 10px !important;
+    margin-top: -114px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .SocialIcons1 {
+    margin-left: -302px !important;
+    margin-top: 160px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .SocialIcons2 {
+    margin-top: 160px !important;
+  }
+}
+
+@media (min-width:1700px) and (max-width: 2000px) {
+  .hiClass {
+    width: 511px !important;
+  }
+}
+
+@media (min-width:1700px) and (max-width: 2000px) {
+  .mainTxtDiv {
+    margin-left: 310px !important;
+  }
+}
+
+@media (min-width:1700px) and (max-width: 2000px) {
+  .mainTxtDiv2 {
+    margin-left: 310px !important;
+    margin-top: -78px !important;
+  }
+}
+
+@media (min-width:1700px) and (max-width: 2000px) {
+  .mainTxtDiv3 {
+    margin-left: 310px !important;
+  }
+}
+
+@media (min-width:1700px) and (max-width: 2000px) {
+  .HelloClass2 {
+    font-size: 39px !important;
+  }
+}
+
+@media (min-width:1700px) and (max-width: 2000px) {
+  .DownloadCVBTN {
+    margin-left: 310px !important;
+    margin-top: -160px !important;
+  }
+}
+
+@media (min-width:1700px) and (max-width: 2000px) {
+  .SocialIcons1 {
+    margin-left: -327px !important;
+    margin-top: 241px !important;
+  }
+}
+
+@media (min-width:1700px) and (max-width: 2000px) {
+  .SocialIcons2 {
+    margin-top: 241px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .instaBtn {
+    background-image: url("../../assets/img/insta-logo-20x20.png") !important;
+    width: 20px !important;
+    height: 20px !important;
+    padding: 10px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .gitBtn {
+    background-image: url("../../assets/img/git-logo-20x20.png") !important;
+    width: 20px !important;
+    height: 20px !important;
+    padding: 10px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .kagBtn {
+    background-image: url("../../assets/img/kag-logo-20x20.png") !important;
+    width: 20px !important;
+    height: 20px !important;
+    padding: 10px !important;
+  }
+}
+
+@media (max-width: 1700px) {
+  .linkBtn {
+    background-image: url("../../assets/img/linked-logo-20x20.png") !important;
+    width: 20px !important;
+    height: 20px !important;
+    padding: 10px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .logoClass {
+    width: 92px !important;
+    height: 44px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .navbar-brand {
+    height: 234px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .navbar-nav {
+    margin-left: 9px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .nav-link {
+    font-size: 12px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .nav-link {
+    margin-left: -16px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .SupportBtn {
+    font-size: 11px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .hiClass {
+    width: 350px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .mainTxtDiv {
+    margin-left: 145px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .mainTxtDiv2 {
+    margin-left: 145px !important;
+    margin-top: -110px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .HelloClass2 {
+    font-size: 25px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .DescClass {
+    font-size: 8px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .mainTxtDiv3 {
+    margin-left: 145px !important;
+    width: 400px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .DownloadCVBTN {
+    margin-left: 145px !important;
+  }
+}
+
+@media (min-width:900px) and (max-width: 1300px) {
+  .SocialIcons1.instaBtn {
+    margin-left: -209px !important;
+  }
+}
+
+/* Common Styles */
+
+.HomeBtn {
+  float: right;
+}
+
+.nav-link {
+  float: right;
+}
+
+.SupportBtn {
+  font-weight: 800;
+  margin-right: 120px;
+  margin-top: 30px;
+}
+
+.SupportBtnLink {
+  font-weight: 800;
+}
+
+.DownloadCVBTN {
+  font-weight: 800;
+  margin-left: 400px;
+  margin-top: -256px;
+}
+
+.navbar-nav {
+  margin-left: 350px;
+  margin-top: 30px;
+}
+
+.hiClass {
+  float: right;
+  margin-right: 150px;
+  margin-top: 80px;
+}
+
+.nav-link {
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+.ScrollClass {
+  font-weight: 600;
+  writing-mode: vertical-rl;
+  float: right;
+  margin-right: 80px;
+  margin-top: 655px;
+}
+
+.fa.fa-long-arrow-down.ScrollArrow {
+  margin-top: 20px;
+}
+
+.logoClass {
+  margin-top: 100px;
+}
+
+.HelloClass {
+  margin-left: 10px;
+  font-weight: 800;
+}
+
+.HelloClass2 {
+  font-weight: 800;
+}
+
+.mainTxtDiv {
+  margin-top: 180px;
+  margin-left: 400px;
+}
+
+.mainTxtDiv2 {
+  margin-left: 400px;
+  margin-top: -75px;
+}
+
+.mainTxtDiv3 {
+  margin-left: 400px;
+  margin-top: -110px;
+}
+
+.NameClass1 {
+  margin-left: 18px;
+}
+
+.NameClass2 {
+  margin-left: 18px;
+}
+
+.DescClass {
+  font-weight: 500;
+}
+
+.SocialIcons1 {
+  margin-top: 385px;
+  margin-left: -455px;
+}
+
+.SocialIcons2 {
+  margin-top: 385px;
+  margin-left: 25px;
+}
+

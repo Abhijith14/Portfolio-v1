@@ -1,0 +1,25 @@
+.HeadingSpan {
+  font-weight: 900;
+  font-size: 67px;
+}
+
+.HeadingDiv {
+  width: 80%;
+  margin: 58px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+#multi-item-example {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 90px;
+}
+
+.HeadingDiv {
+  display: none;
+}
+
+.controls-top {
+}
+
