@@ -38,9 +38,9 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [Ab
 
 ## 🎨 Color Reference
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Deep Blue      | ![#3e4352](https://via.placeholder.com/10/3e4352?text=+) `#3e4352` |
-| Light Grey     | ![#737373](https://via.placeholder.com/10/737373?text=+) `#737373` |
-| Lightest Grey  | ![#eef1fc](https://via.placeholder.com/10/eef1fc?text=+) `#eef1fc` |
-| Bold Red       | ![#ff1616](https://via.placeholder.com/10/ff1616?text=+) `#ff1616` |
+| Color          | Hex                                                                | RGB		           |
+| -------------- | ------------------------------------------------------------------ |	------------------ |
+| Deep Blue      | ![#3e4352](https://via.placeholder.com/10/3e4352?text=+) `#3e4352` |	rgb(62, 67, 82)	   |
+| Light Grey     | ![#737373](https://via.placeholder.com/10/737373?text=+) `#737373` |	rgb(115, 115, 115) |
+| Lightest Grey  | ![#eef1fc](https://via.placeholder.com/10/eef1fc?text=+) `#eef1fc` |	rgb(238, 241, 252) |
+| Bold Red       | ![#ff1616](https://via.placeholder.com/10/ff1616?text=+) `#ff1616` |	rgb(255, 22, 22)   |
