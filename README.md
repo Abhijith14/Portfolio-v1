@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/Abhijith14/Portfolio-v1/main/readme_assets/logo.png" width="100" />
 </div>
 <h1 align="center">
-  Abhijith14/Portfolio
+  Abhijith14/Portfolio-v1
 </h1>
 <p align="center">
-  The First iteration of <a href="https://abhijith14.github.io/Portfolio-v1/" target="_blank">Abhijith14/Portfolio</a>
+  The First iteration of <a href="https://abhijith14.github.io/Portfolio-v1/" target="_blank">Abhijith14/Portfolio-v1</a>
 </p>
 <!--
 <p align="center">
@@ -34,7 +34,7 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Portfolio](https://abhijith14.github.io/Portfolio-v1/). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14.github.io/Portfolio-v1](https://abhijith14.github.io/Portfolio-v1/). Thanks!
 
 ## 🎨 Color Reference
 
