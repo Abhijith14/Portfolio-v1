@@ -34,7 +34,7 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14.github.io/Portfolio-v1](https://abhijith14.github.io/Portfolio-v1/). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Portfolio-v1](https://github.com/Abhijith14/Portfolio-v1). Thanks!
 
 ## 🎨 Color Reference
 
